@@ -1,0 +1,13 @@
+Ejercicio 2: Algoritmo para describir mi rutina diaria
+
+1. Inicio  
+2. Levantarme  
+3. Ir al baño a lavarme la cara y los dientes  
+4. Preparar y tomar desayuno  
+5. Encender la computadora del trabajo  
+6. Revisar correos y responder los importantes  
+7. Revisar alertas nuevas  
+8. Si hay alertas críticas:  
+    i. Atenderlas  
+9. Continuar con el resto de tareas del día  
+10. Fin  

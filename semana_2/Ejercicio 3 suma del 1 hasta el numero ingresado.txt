@@ -1,0 +1,9 @@
+Ejercicio 3: Suma del 1 hasta el número ingresado
+
+1. Inicio  
+2. Leer numero  
+3. suma ← 0  
+4. Para i desde 1 hasta numero hacer  
+    a. suma ← suma + i  
+5. Mostrar suma  
+6. Fin  

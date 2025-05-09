@@ -1,0 +1,17 @@
+Ejercicio 1: Algoritmo para ver un video en YouTube
+
+1. Inicio
+2. Encender el dispositivo (computadora o celular)
+3. Abrir el navegador de internet
+4. Escribir "youtube.com" en la barra de búsqueda y presionar Enter
+5. Esperar a que cargue la página
+6. En la barra de búsqueda de YouTube, escribir el nombre del video
+7. Presionar Enter
+8. Mientras no encuentre el video que quiero ver:
+    i. Desplazarme por los resultados
+    ii. Leer los títulos de los videos
+    iii. Si encuentro el video correcto:
+        a. Hacer clic en el video
+        b. Sino: continuar desplazándome
+9. Ver el video
+10. Fin

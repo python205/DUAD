@@ -1,0 +1,12 @@
+Ejercicio 2: Comparar tiempo con 10 minutos
+
+1. Inicio  
+2. Leer tiempo_en_segundos  
+3. Si tiempo_en_segundos > 600 entonces  
+    a. Mostrar "Mayor"  
+Sino si tiempo_en_segundos < 600 entonces  
+    b. restante ← 600 - tiempo_en_segundos  
+    c. Mostrar restante  
+Sino  
+    d. Mostrar "Igual"  
+4. Fin  
