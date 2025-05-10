@@ -1,0 +1,11 @@
+Ejercicio 1: Cálculo de precio con descuento
+
+1. Inicio  
+2. Leer precio_del_producto  
+3. Si precio_del_producto < 100 entonces  
+    a. descuento ← precio_del_producto * 0.02  
+Sino  
+    b. descuento ← precio_del_producto * 0.10  
+4. precio_final ← precio_del_producto - descuento  
+5. Mostrar precio_final  
+6. Fin  
